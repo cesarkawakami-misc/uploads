@@ -1,1 +1,1 @@
-# uploads
+# See the `gh-pages` branch
